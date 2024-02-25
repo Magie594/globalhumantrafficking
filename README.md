@@ -11,3 +11,5 @@ Machine Learning Random Forest Classifier: Robust model that give us results hig
 Global Human Trafficking Features Gender: The most relevant variable to get the accuracy of the predictions. Age Rate: Age range on risk to be trafficked. Country Rate: Rate at where the victims are exploited.
 
 Global Human Trafficking dataset from: https://www.ctdatacollaborative.org/page/global-synthetic-dataset
+
+***Data Visualisation** https://public.tableau.com/views/GlobalHumanTraffickingPresentation/Story2?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link
