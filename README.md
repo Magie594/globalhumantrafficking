@@ -2,7 +2,7 @@
 
 **Description**
 
-This project is a deep analysis of each variable that causes a direct and indirect influence on the human trafficking. After reading it you will be able to know and understant how this global disaster has grown since 2016. You also will know which the countries are from the victims are and the countries where the victims are more requested.
+This project is a deep analysis of each variable that causes a direct and indirect influence on the human trafficking. After reading it you will be able to know and understant how this global disaster has grown since 2016. You also will know which the countries from the victims are and the countries where the victims are more requested.
 
 **Process Data Cleaning and Analysis**: In depth analysis of global human trafficking variables and the relation between them.
 
